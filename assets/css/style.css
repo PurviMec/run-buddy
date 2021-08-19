@@ -128,9 +128,6 @@ footer {
      text-align: center;
  }
 
- .intro h2 {
-     
- }
  .intro p {
      line-height: 1.7;
      color: #39a6b2;
@@ -143,10 +140,6 @@ footer {
      text-align: center;
      background: #fce138;
  }
-
-.steps h2 {
-    
-}
 
 .section-title {
     font-size: 55px;
@@ -169,7 +162,7 @@ footer {
     margin-bottom: 80px;
 }
 
-.step img {
+.steps img {
     width: 15%;
     margin: 10px 0;
 }
