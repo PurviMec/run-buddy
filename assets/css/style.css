@@ -53,16 +53,18 @@ footer {
      display: inline;
      color: #024e76;
      font-size: 30px;
-     margin: 0;
+     margin-right: 0;
+    
  }
 
- footer div{
+ .foot-notes {
      float: right;
      line-height: 1.5;
      text-align: right;
+    
  }
 
- footer a {
+ .footer a {
      color: #024e76;
  }
 
@@ -70,7 +72,7 @@ footer {
      padding: 60px;
  }
 
- /* Hero Style Start */
+ /* Homepage Hero Style Start */
  .hero {
      background-image: url("../images/hero-bg.jpeg");
      height: 600px;
@@ -122,7 +124,15 @@ footer {
      font-size: 16px;
  }
 
- /* HERO STYLES END */
+ /* Homepage HERO STYLES END */
+
+ /* secondary page hero */
+ .hero-secondary {
+     margin: 20px;
+     background-color: white;
+     font-size: 20px;
+     color: blue;
+ }
 
  .intro {
      text-align: center;
@@ -252,6 +262,7 @@ font-size: 23px;
 .contact-info iframe {
     width: 400px;
     height: 400px;
+    padding-bottom: 30px;
 
 }
 
@@ -262,6 +273,7 @@ font-size: 23px;
     text-align: left;
     margin: 30px 0 0 60px;
     color: white;
+
 }
 
 .contact-info h3 {
